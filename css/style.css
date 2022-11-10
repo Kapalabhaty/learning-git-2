@@ -1,3 +1,8 @@
+body {
+    background-image: url(https://i.postimg.cc/FRyDWs7F/pexels-nati-11332250.jpg);
+    background-size: cover;
+}
+
 .center {
     margin: auto;
     width: 450px;
